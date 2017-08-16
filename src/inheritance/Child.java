@@ -7,7 +7,7 @@ Parent's method1()
 D. Prints : Parent's method2()
 Child's method1()
 
-Answer: A , Compile time Error
+Answer: A , Compile time Error , since method2 of Parent class is private
 
 */
 package inheritance;
